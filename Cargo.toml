@@ -1,0 +1,7 @@
+[package]
+name = "dinig_philosophers"
+version = "0.1.0"
+authors = ["yo-C-ta <45458949+yo-C-ta@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
